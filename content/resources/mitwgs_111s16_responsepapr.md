@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/wgs-111-gender-media-collaborations-in-feminism-and-technology-spring-2016/e73e26b7be54a137c8a1b8f852cf206b_MITWGS_111S16_ResponsePapr.pdf
+file: /media/courses/wgs-111-gender-media-collaborations-in-feminism-and-technology-spring-2016/e73e26b7be54a137c8a1b8f852cf206b_MITWGS_111S16_ResponsePapr.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: WGS.111 S16 Critical Response Paper Assignment
 uid: e73e26b7-be54-a137-c8a1-b8f852cf206b
