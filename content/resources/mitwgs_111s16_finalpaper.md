@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 88499b9a-e63f-0a5c-6701-f50be1483777
 resourcetype: Document
 title: Title WGS.111 S16 Final Paper Assignment
 uid: 2aa8d30a-f243-37a5-b709-eb323d7c763a

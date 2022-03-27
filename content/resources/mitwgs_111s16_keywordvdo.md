@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 88499b9a-e63f-0a5c-6701-f50be1483777
 resourcetype: Document
 title: WGG.111 S16 Keyword Video Assignment
 uid: 3da34e82-e6f0-9eb2-8ac9-c86b2ce9ad04

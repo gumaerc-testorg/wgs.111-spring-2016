@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 88499b9a-e63f-0a5c-6701-f50be1483777
 resourcetype: Document
 title: WGS.111 S16 Critical Response Paper Assignment
 uid: e73e26b7-be54-a137-c8a1-b8f852cf206b
