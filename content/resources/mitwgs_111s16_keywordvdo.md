@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/wgs-111-gender-media-collaborations-in-feminism-and-technology-spring-2016/3da34e82e6f09eb28ac9c86b2ce9ad04_MITWGS_111S16_KeywordVdo.pdf
+file: /courses/wgs-111-gender-media-collaborations-in-feminism-and-technology-spring-2016/3da34e82e6f09eb28ac9c86b2ce9ad04_MITWGS_111S16_KeywordVdo.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
