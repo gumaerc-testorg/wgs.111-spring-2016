@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 5a2e65f3-b0fe-0b6d-d8f5-8d29f6c4e5da
 ---
@@ -35,7 +37,7 @@ Upon successful completion of this course, students will be able to do the follo
 *   Identify stereotypes of gender, race, class, and sexual identity in media portrayals
 *   Locate examples of _framing, intersectionality, and symbolic annihilation_ in media
 *   Analyze texts in context of cultural and social identities, considering how reality is socially and discursively constructed by media
-*   Discuss _media literacy_ in contemporary terms, in light of 21st century developments in online cultural production and new media
+*   Discuss _media literacy_ in contemporary terms, in light of 21{{< sup "st" >}} century developments in online cultural production and new media
 *   To engage in collaborative learning with an aim to embody and enact a different way of being scholars, through flattened hierarchies and collaboration within and outside of established institutions.
 
 Course Texts
