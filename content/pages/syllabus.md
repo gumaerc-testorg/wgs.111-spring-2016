@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains general information about the course including
+  prerequisites, requirements, and texts used in the class.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

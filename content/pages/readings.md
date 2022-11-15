@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section contains a list of readings, blogs, videos, and other media
+  used in the class. '
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
