@@ -3,10 +3,11 @@ content_type: resource
 description: 'A woman takes a selfie overlooking Palm Springs, CA. Image courtesy
   of Amber Case on Flickr. License: CC BY-NC.'
 file: /courses/wgs-111-gender-media-collaborations-in-feminism-and-technology-spring-2016/a0aa24adc433780e6e76669bb2e9cb46_wgs-111s16-th.jpg
+file_size: 11209
 file_type: image/jpeg
 image_metadata:
   caption: 'A woman takes a selfie overlooking Palm Springs, CA. (Image courtesy of
-    [Amber Case](https://www.flickr.com/photos/caseorganic/16608336543/) on Flickr.
+    {{% resource_link "31acf560-e8b2-4b0c-ad3e-21dd596e1d16" "Amber Case" %}} on Flickr.
     License: CC BY-NC)'
   credit: 'Image courtesy of Amber Case on Flickr. License: CC BY-NC.'
   image-alt: A photograph of a woman holding a cell phone in front of her taking a

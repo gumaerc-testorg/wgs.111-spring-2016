@@ -28,7 +28,7 @@ In addition, we will examine how gender and race affects the _production_ of med
 Distributed Open Collaborative Course
 -------------------------------------
 
-This course was designed as a a DOCC, a Distributed Open Collaborative Course, in conjunction with others running simultaneously at other colleges and universities by members of [FemTechNet](http://femtechnet.org/docc/), an international consortium of feminist scholars, cultural producers, and educators. Students engaged in "conversations" in dialogue with each other and also with participants in other courses, using digital technology to supplement real-time class interactions. Read [FemTechNet](https://femtechnet.academia.edu/FemTechNetDocuments) Documents.
+This course was designed as a a DOCC, a Distributed Open Collaborative Course, in conjunction with others running simultaneously at other colleges and universities by members of {{% resource_link "1880b7aa-661f-4c03-bfdc-fd6e565018dd" "FemTechNet" %}}, an international consortium of feminist scholars, cultural producers, and educators. Students engaged in "conversations" in dialogue with each other and also with participants in other courses, using digital technology to supplement real-time class interactions. Read {{% resource_link "ffe41138-a0b3-4371-bf86-dff5af886d0a" "FemTechNet" %}} Documents.
 
 Course Objectives
 -----------------
@@ -47,7 +47,7 @@ Course Texts
 
 boyd, danah. _It's Complicated: The Social Lives of Networked Teens_. Yale University Press, 2015. ISBN: 9780300199000.
 
-Jenkins, Henry, Sam Ford, and Joshua Green. _Spreadable Media: Creating Value and Meaning in a Networked Culture_. NYU Press, 2013. ISBN: 9780814743508. \[Preview with [Google Books](http://books.google.com/books?id=M_8TCgAAQBAJ&pg=PAfrontcover)\]
+Jenkins, Henry, Sam Ford, and Joshua Green. _Spreadable Media: Creating Value and Meaning in a Networked Culture_. NYU Press, 2013. ISBN: 9780814743508. \[Preview with {{% resource_link "5dc33607-b387-4fc6-bb08-d59d8c987bb4" "Google Books" %}}\]
 
 Course Requirements
 -------------------
