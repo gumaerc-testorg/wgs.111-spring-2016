@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/wgs-111-gender-media-collaborations-in-feminism-and-technology-spring-2016/2aa8d30af24337a5b709eb323d7c763a_MITWGS_111S16_FinalPaper.pdf
+file_size: 187570
 file_type: application/pdf
 learning_resource_types:
 - Assignments
