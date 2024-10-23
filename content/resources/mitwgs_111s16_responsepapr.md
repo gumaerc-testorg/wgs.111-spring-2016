@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/wgs-111-gender-media-collaborations-in-feminism-and-technology-spring-2016/e73e26b7be54a137c8a1b8f852cf206b_MITWGS_111S16_ResponsePapr.pdf
+file: /ol-ocw-studio-app/courses/wgs-111-gender-media-collaborations-in-feminism-and-technology-spring-2016/e73e26b7be54a137c8a1b8f852cf206b_MITWGS_111S16_ResponsePapr.pdf
 file_size: 149059
 file_type: application/pdf
 learning_resource_types:
