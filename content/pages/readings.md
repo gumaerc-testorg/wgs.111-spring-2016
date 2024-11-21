@@ -2,100 +2,68 @@
 content_type: page
 description: 'This section contains a list of readings, blogs, videos, and other media
   used in the class. '
+draft: false
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 7408d53d-6e11-9057-a446-65f10a7d9152
 ---
+## Course Texts
 
-Course Texts
-------------
+boyd, danah. "Introduction." In *It's Complicated: The Social Lives of Networked Teens*. Yale University Press, 2015, pp. 1–3, 6, and 8. ISBN: 9780300199000.
 
-boyd, danah. "Introduction." In _It's Complicated: The Social Lives of Networked Teens_. Yale University Press, 2015, pp. 1–3, 6, and 8. ISBN: 9780300199000.
+Jenkins, Henry, Sam Ford, and Joshua Green. *Spreadable Media: Creating Value and Meaning in a Networked Culture*. New York University Press, 2013. ISBN: 9780814743508. \[Preview with [Google Books](http://books.google.com/books?id=M_8TCgAAQBAJ&pg=PAfrontcover)\]
 
-Jenkins, Henry, Sam Ford, and Joshua Green. _Spreadable Media: Creating Value and Meaning in a Networked Culture_. New York University Press, 2013. ISBN: 9780814743508. \[Preview with [Google Books](http://books.google.com/books?id=M_8TCgAAQBAJ&pg=PAfrontcover)\]
-
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 TOPICS
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 READINGS
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 CLASS LINKS
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Introduction to Course
 
 ### In-class Video
 
-Newsom, Jennifer Siebel and Kimberlee Acquaro. _[Miss Representation](http://www.imdb.com/title/tt1784538/?ref_=fn_al_tt_1)_. Girls Club Entertainment, 2014. Watch on [YouTube](https://www.youtube.com/watch?v=FZYpAuUzDhU).
+Newsom, Jennifer Siebel and Kimberlee Acquaro. [*Miss Representation*](http://www.imdb.com/title/tt1784538/?ref_=fn_al_tt_1). Girls Club Entertainment, 2014. Watch on [YouTube](https://www.youtube.com/watch?v=FZYpAuUzDhU).
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-zandria. "[We Slay, Part I](http://newsouthnegress.com/southernslayings/)." _New South Negress_.
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+zandria. "[We Slay, Part I](http://newsouthnegress.com/southernslayings/)." *New South Negress*.
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Gallery visit to the [MIT List Visual Arts Center](https://listart.mit.edu/)
 
 **Special Event: List Reading Group: Role-Playing, focused on Ann Hirsch exhibit**
 
-How do media platforms simultaneously _construct and maintain_ a _range_ of characters and social roles? Join List Curatorial Fellow Monica Steinberg for a reading and discussion group exploring the tensions between the personal and the performed, nonfictional and fictionalized beings, and complex self-conceptions and static identities in [List Projects: Ann Hirsch](https://listart.mit.edu/exhibitions/list-projects-ann-hirsch).
+How do media platforms simultaneously *construct and maintain* a *range* of characters and social roles? Join List Curatorial Fellow Monica Steinberg for a reading and discussion group exploring the tensions between the personal and the performed, nonfictional and fictionalized beings, and complex self-conceptions and static identities in [List Projects: Ann Hirsch](https://listart.mit.edu/exhibitions/list-projects-ann-hirsch).
 
+{{< tdclose >}}{{< tdopen >}}
 
-{{< tdclose >}}
-{{< tdopen >}}
+Smith, Cherise. "[Re-member the Audience: Adrian Piper's Mythic Being Advertisements](http://dx.doi.org/10.1080/00043249.2007.10791239)." *Art Journal* 66, no. 1 (2007): 46–58.
 
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262514026) Joselit, David. *Feedback: Television Against Democracy*. MIT Press, 2010. ISBN: 9780262514026.
 
-Smith, Cherise. "[Re-member the Audience: Adrian Piper's Mythic Being Advertisements](http://dx.doi.org/10.1080/00043249.2007.10791239)." _Art Journal_ 66, no. 1 (2007): 46–58.
+Fateman, Johanna. "[Women on the Verge: Art, Feminism, and Social Media](https://artforum.com/inprint/issue=201504&id=50736)." *Art Forum*, April 2015.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262514026) Joselit, David. _Feedback: Television Against Democracy_. MIT Press, 2010. ISBN: 9780262514026.
+Ballard, Thea. "Messy Networks: Tactical Visibility in Ann Hirsch's Horny Lil Feminist." *Modern Painters*, October 2015.
 
-Fateman, Johanna. "[Women on the Verge: Art, Feminism, and Social Media](https://artforum.com/inprint/issue=201504&id=50736)." _Art Forum_, April 2015.
+"[Beyonce's 'Formation' Is a Visual Anthem](http://www.npr.org/2016/02/08/466036710/beyonces-formation-is-a-visual-anthem)." *All Things Considered*. National Public Radio. February 8, 2016.
 
-Ballard, Thea. "Messy Networks: Tactical Visibility in Ann Hirsch's Horny Lil Feminist." _Modern Painters_, October 2015.
+Caramanica, Jon, Wesley Morris, et al. "[Beyoncé in 'Formation': Entertainer, Activist, Both?](http://www.nytimes.com/2016/02/07/arts/music/beyonce-formation-super-bowl-video.html?_r=1)" *The New York Times*, February 6, 2016.
 
-"[Beyonce's 'Formation' Is a Visual Anthem](http://www.npr.org/2016/02/08/466036710/beyonces-formation-is-a-visual-anthem)." _All Things Considered_. National Public Radio. February 8, 2016.
+"[White People: Shut Up About Beyoncé](https://bittergertrude.com/2016/02/08/white-people-shut-up-about-beyonce/)." *Bitter Gertude*. February 8, 2016.
 
-Caramanica, Jon, Wesley Morris, et al. "[Beyoncé in 'Formation': Entertainer, Activist, Both?](http://www.nytimes.com/2016/02/07/arts/music/beyonce-formation-super-bowl-video.html?_r=1)" _The New York Times_, February 6, 2016.
-
-"[White People: Shut Up About Beyoncé](https://bittergertrude.com/2016/02/08/white-people-shut-up-about-beyonce/)." _Bitter Gertude_. February 8, 2016.
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ### Videos
 
@@ -105,168 +73,133 @@ Beyoncé. "[Formation](https://www.youtube.com/watch?v=LrCHz1gwzTo#t=17)." Febru
 
 Noah, Trevor. "[Beyonce's Halftime Show Message](http://www.cc.com/video-clips/j79s76/the-daily-show-with-trevor-noah-beyonce-s-halftime-show-message)." The Daily Show. February 8, 2016.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Media Effects: Representation and Why It Matters
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+Van Zoonen, L. "Feminist Perspectives on the Media." In *Mass Media and Society*. 2nd edition. Edited by J. Curran and M. Gurevitch. Hoddar Education Publishers, 1996, pp. 31–52. ISBN: 9780340614181.
 
-Van Zoonen, L. "Feminist Perspectives on the Media." In _Mass Media and Society_. 2nd edition. Edited by J. Curran and M. Gurevitch. Hoddar Education Publishers, 1996, pp. 31–52. ISBN: 9780340614181.
+Tuchman, Gaye, Arlene Kaplan Daniels, et al. "The Symbolic Annihilation of Women by the Mass Media." In *Hearth and Home: Images of Women in the Mass Media*. Oxford University Press, 1978. ISBN: 9780195023527.
 
-Tuchman, Gaye, Arlene Kaplan Daniels, et al. "The Symbolic Annihilation of Women by the Mass Media." In _Hearth and Home: Images of Women in the Mass Media_. Oxford University Press, 1978. ISBN: 9780195023527.
+Gorham, Bradley C. "The Social Psychology of Stereotypes: Implications for Media Audiences." In *Race/Gender/Class/Media*. Edited by Rebecca Ann Lind. Pearson, 2012. ISBN: 9790205006105.
 
-Gorham, Bradley C. "The Social Psychology of Stereotypes: Implications for Media Audiences." In _Race/Gender/Class/Media_. Edited by Rebecca Ann Lind. Pearson, 2012. ISBN: 9790205006105.
+Lind, Rebecca Ann, eds. "Laying a Foundation for Studying Race, Gender, and the Media." In *Race/Gender/Class/Media*. 2012. ISBN: 9790205006105.
 
-Lind, Rebecca Ann, eds. "Laying a Foundation for Studying Race, Gender, and the Media." In _Race/Gender/Class/Media_. 2012. ISBN: 9790205006105.
+Timpane, John. "How the Media Shaped Katrina." *Philly.com*. September 7, 2010.
 
-Timpane, John. "How the Media Shaped Katrina." _Philly.com_. September 7, 2010.
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ### Videos
 
-"[Fox Host to Hillary Clinton: 'Stop Complaining About Your Gender'](http://mediamatters.org/video/2016/02/16/fox-host-to-hillary-clinton-stop-complaining-ab/208614)." _Media Matters_, February 16, 2016.
+"[Fox Host to Hillary Clinton: 'Stop Complaining About Your Gender'](http://mediamatters.org/video/2016/02/16/fox-host-to-hillary-clinton-stop-complaining-ab/208614)." *Media Matters*, February 16, 2016.
 
-"[The Day Beyoncé Turned Black](https://www.youtube.com/watch?v=ociMBfkDG1w)." _Saturday Night Live_. February 14, 2016. YouTube.
+"[The Day Beyoncé Turned Black](https://www.youtube.com/watch?v=ociMBfkDG1w)." *Saturday Night Live*. February 14, 2016. YouTube.
 
-"[_The Daily Show_ Blasts Fox News' Problematic Coverage of Race in Ferguson](http://mediamatters.org/video/2014/08/27/the-daily-show-blasts-fox-news-problematic-cove/200565)." _Media Matters_. August 27, 2014.
+"[*The Daily Show* Blasts Fox News' Problematic Coverage of Race in Ferguson](http://mediamatters.org/video/2014/08/27/the-daily-show-blasts-fox-news-problematic-cove/200565)." *Media Matters*. August 27, 2014.
 
-"[Fox News Worried That Referring to Michael Brown as 'Unarmed Teen' Might be Misleading](http://mediamatters.org/blog/2014/08/25/fox-news-worried-that-referring-to-michael-brow/200532)." _Media Matters_. August 25, 2015.
+"[Fox News Worried That Referring to Michael Brown as 'Unarmed Teen' Might be Misleading](http://mediamatters.org/blog/2014/08/25/fox-news-worried-that-referring-to-michael-brow/200532)." *Media Matters*. August 25, 2015.
 
 ### Articles
 
-Heisler, Todd. "[Wary 'Normal' In Ferguson, Mo](http://www.nytimes.com/2014/09/05/us/ferguson-photos-after-the-protests.html?_r=1#slideshow/100000003091644/100000003091675)," _The New York Times_, September 5, 2014. See slideshow of images from Ferguson.
+Heisler, Todd. "[Wary 'Normal' In Ferguson, Mo](http://www.nytimes.com/2014/09/05/us/ferguson-photos-after-the-protests.html?_r=1#slideshow/100000003091644/100000003091675)," *The New York Times*, September 5, 2014. See slideshow of images from Ferguson.
 
-Gettys, Travis. "[Attorney: Video Shows Police Shot Ohio Man 'On Sight' as He Leaned on Toy Gun in Walmart](http://www.alternet.org/news-amp-politics/attorney-video-shows-police-shot-ohio-man-sight-he-leaned-toy-gun-walmart)." _Alternet_. August 26, 2014.
+Gettys, Travis. "[Attorney: Video Shows Police Shot Ohio Man 'On Sight' as He Leaned on Toy Gun in Walmart](http://www.alternet.org/news-amp-politics/attorney-video-shows-police-shot-ohio-man-sight-he-leaned-toy-gun-walmart)." *Alternet*. August 26, 2014.
 
-———. "[Man Who Called 911 in Ohio Walmart Shooting Changes His S tory After Viewing Video](http://www.rawstory.com/2014/09/man-who-called-911-in-ohio-walmart-shooting-changes-his-story-after-viewing-video/)." _Raw Story_, September 9, 2014.
+———. "[Man Who Called 911 in Ohio Walmart Shooting Changes His S tory After Viewing Video](http://www.rawstory.com/2014/09/man-who-called-911-in-ohio-walmart-shooting-changes-his-story-after-viewing-video/)." *Raw Story*, September 9, 2014.
 
-McKenzie, Mia. "[Things to Stop Being Distracted By When a Black Person Gets Murdered By Police](http://www.blackgirldangerous.org/2014/08/things-stop-distracted-black-person-gets-murdered-police/)." _BGD_. August 12, 2014.
+McKenzie, Mia. "[Things to Stop Being Distracted By When a Black Person Gets Murdered By Police](http://www.blackgirldangerous.org/2014/08/things-stop-distracted-black-person-gets-murdered-police/)." *BGD*. August 12, 2014.
 
-Lawson, Richard. "[Haiti: Looting? Or Surviving?](http://greenerblog.blogspot.com/2010/01/haiti-looting-or-surviving.html)" _Mabinogogiblog_. July 16, 2016.
+Lawson, Richard. "[Haiti: Looting? Or Surviving?](http://greenerblog.blogspot.com/2010/01/haiti-looting-or-surviving.html)" *Mabinogogiblog*. July 16, 2016.
 
-"[Finders, Looters and the Media](http://www.abc.net.au/mediawatch/transcripts/s1458571.htm)." _Media Watch_. September 12, 2005.
+"[Finders, Looters and the Media](http://www.abc.net.au/mediawatch/transcripts/s1458571.htm)." *Media Watch*. September 12, 2005.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Race, Class, and Gender in Media Content
 
 ### In-class Video
 
-[_Killing Us Softly 4: Advertising's Image of Women_](http://www.imdb.com/title/tt2507550/?ref_=fn_al_tt_4) Directed by Sut Jhally. Color, 2010. Watch an excerpt on [YouTube](https://www.youtube.com/watch?v=mxfmdfj_KhQ).
+[*Killing Us Softly 4: Advertising's Image of Women*](http://www.imdb.com/title/tt2507550/?ref_=fn_al_tt_4) Directed by Sut Jhally. Color, 2010. Watch an excerpt on [YouTube](https://www.youtube.com/watch?v=mxfmdfj_KhQ).
 
+{{< tdclose >}}{{< tdopen >}}
 
-{{< tdclose >}}
-{{< tdopen >}}
+Mulvey, Laura. "Visual Pleasure and Narrative Cinema." In *Movies and Methods: Vol II: An Anthology*. University of California Press, 1985. ISBN: 9780520054097. \[Preview with [Google Books](http://books.google.com/books?id=22ab7E9K1TYC&pg=PA303=onepage)\]
 
+ hooks, bell. "The Oppositional Gaze: Black Female Spectators." In *Black Looks: Race and Representation*. South End Press, 1992, pp. 600–609. ISBN: 9780896084339.
 
-Mulvey, Laura. "Visual Pleasure and Narrative Cinema." In _Movies and Methods: Vol II: An Anthology_. University of California Press, 1985. ISBN: 9780520054097. \[Preview with [Google Books](http://books.google.com/books?id=22ab7E9K1TYC&pg=PA303=onepage)\]
+Kilbourne Jean. "The More You Subtract, The More You Add." In *Deadly Persuasion: Why Women and Girls Must Fight the Addictive Power of Advertising*. Free Press, 1999. ISBN: 9780684865997.
 
- hooks, bell. "The Oppositional Gaze: Black Female Spectators." In _Black Looks: Race and Representation_. South End Press, 1992, pp. 600–609. ISBN: 9780896084339.
+Hesse-Biber, Sharlene. *Am I Thin Enough Yet?: The Cult of Thinness and the Commercialization of Identity*. Oxford University Press, 1997. ISBN: 9780195117912.
 
-Kilbourne Jean. "The More You Subtract, The More You Add." In _Deadly Persuasion: Why Women and Girls Must Fight the Addictive Power of Advertising_. Free Press, 1999. ISBN: 9780684865997.
-
-Hesse-Biber, Sharlene. _Am I Thin Enough Yet?: The Cult of Thinness and the Commercialization of Identity_. Oxford University Press, 1997. ISBN: 9780195117912.
-
-Ross, Karen. "The Body in Question: Less Than the Sum of Our Parts." In _Gendered Media: Women, Men, and Identity Politics_. Rowman & Littlefield Publishers, 2009. ISBN: 9780742554061. \[Preview with [Google Books](http://books.google.com/books?id=6AAmUP_NAxAC&pg=PA41=onepage)\]
+Ross, Karen. "The Body in Question: Less Than the Sum of Our Parts." In *Gendered Media: Women, Men, and Identity Politics*. Rowman & Littlefield Publishers, 2009. ISBN: 9780742554061. \[Preview with [Google Books](http://books.google.com/books?id=6AAmUP_NAxAC&pg=PA41=onepage)\]
 
 ### Optional Extra Readings
 
-Berger, Maurice. "White Lies." In _Race, Class, and Gender in the United States_. Worth Publishers, 2013. ISBN: 9781429242172.
+Berger, Maurice. "White Lies." In *Race, Class, and Gender in the United States*. Worth Publishers, 2013. ISBN: 9781429242172.
 
-Wolf, Michelle A., Sandy Nichols, et al. "Body Image, Mass Media, Self-Concept." In _Race/Gender/Class/Media_. Edited by Rebecca Ann Lind. Pearson, 2012. ISBN: 9790205006105.
+Wolf, Michelle A., Sandy Nichols, et al. "Body Image, Mass Media, Self-Concept." In *Race/Gender/Class/Media*. Edited by Rebecca Ann Lind. Pearson, 2012. ISBN: 9790205006105.
 
 ### Articles
 
-Kirk, Ashley. "[Oscars 2016 Race Row: How Representative is the Academy Awards?](http://www.telegraph.co.uk/culture/film/oscars/12120671/Oscars-2016-race-row-How-representative-is-the-Academy-Awards.html)" _The Telegraph_, February 29, 2016.
+Kirk, Ashley. "[Oscars 2016 Race Row: How Representative is the Academy Awards?](http://www.telegraph.co.uk/culture/film/oscars/12120671/Oscars-2016-race-row-How-representative-is-the-Academy-Awards.html)" *The Telegraph*, February 29, 2016.
 
-Chaney, Jen. "[Watch Eddie Murphy Give an #OscarsSoWhite Speech, Long Before Hashtags Were Invented](https://www.yahoo.com/movies/watch-eddie-murphy-give-an-oscarssowhite-speech-130643474.html)." _Yahoo_. February 24, 2016. See the video: Heru Duenas. "[People Forgot When Eddie Murphy Spoke Out at the Oscars About Racist Hollywood](https://www.youtube.com/watch?v=WNAePAAYPrc)." April 21, 2015. YouTube.
+Chaney, Jen. "[Watch Eddie Murphy Give an #OscarsSoWhite Speech, Long Before Hashtags Were Invented](https://www.yahoo.com/movies/watch-eddie-murphy-give-an-oscarssowhite-speech-130643474.html)." *Yahoo*. February 24, 2016. See the video: Heru Duenas. "[People Forgot When Eddie Murphy Spoke Out at the Oscars About Racist Hollywood](https://www.youtube.com/watch?v=WNAePAAYPrc)." April 21, 2015. YouTube.
 
-Williams, Stereo. "[Joseph Fiennes as Michael Jackson: A Symptom of Hollywood's Deep-Seated Race Problem](http://www.thedailybeast.com/articles/2016/01/27/joseph-fiennes-as-michael-jackson-a-symptom-of-hollywood-s-deep-seated-race-problem.html)." _The Daily Beast_, January 27, 2016.
+Williams, Stereo. "[Joseph Fiennes as Michael Jackson: A Symptom of Hollywood's Deep-Seated Race Problem](http://www.thedailybeast.com/articles/2016/01/27/joseph-fiennes-as-michael-jackson-a-symptom-of-hollywood-s-deep-seated-race-problem.html)." *The Daily Beast*, January 27, 2016.
 
-Thrasher, Steven W. "[Joseph Fiennes as Michael Jackson Shows Race Problems Before Oscars Row](https://www.theguardian.com/world/2016/jan/28/joseph-fiennes-michael-jackson-race-problems-oscarssowhite)," _The Guardian_, January 28, 2016.
+Thrasher, Steven W. "[Joseph Fiennes as Michael Jackson Shows Race Problems Before Oscars Row](https://www.theguardian.com/world/2016/jan/28/joseph-fiennes-michael-jackson-race-problems-oscarssowhite)," *The Guardian*, January 28, 2016.
 
-Brown, Kara. [Matt Damon Interrupts Successful Black Woman Filmmaker to Explain Diversity to Her](http://jezebel.com/matt-damon-interrupts-successful-black-woman-filmmaker-1730553152)." _Jezebel_, September 2015.
+Brown, Kara. [Matt Damon Interrupts Successful Black Woman Filmmaker to Explain Diversity to Her](http://jezebel.com/matt-damon-interrupts-successful-black-woman-filmmaker-1730553152)." *Jezebel*, September 2015.
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ### Videos
 
 gullysiderz. "[Funny New Cheerios Commercial with Interracial Family](https://www.youtube.com/watch?v=Z01qH-jqGBY)." June 1, 2013. YouTube.
 
-"[Interracial Cheerios Commercial Generates Debate](http://abcnews.go.com/GMA/video/interracial-cheerios-commercial-generates-debate-19307796)." _ABC News_.
+"[Interracial Cheerios Commercial Generates Debate](http://abcnews.go.com/GMA/video/interracial-cheerios-commercial-generates-debate-19307796)." *ABC News*.
 
 Cecka, Tyson. "[K-Swiss Parkour Commercial with Anna Kournikova](https://www.youtube.com/watch?v=eMDULfCIXic)." June 5, 2008. YouTube.
 
-Elbagir, Nima. "[Actors Address Oscar Diversity Issue at BAFTAS](http://edition.cnn.com/videos/entertainment/2016/02/15/bafta-diversity-oscar-hollywood-elbagir-lklv.cnn)." _CNN_. February 15, 2016.
+Elbagir, Nima. "[Actors Address Oscar Diversity Issue at BAFTAS](http://edition.cnn.com/videos/entertainment/2016/02/15/bafta-diversity-oscar-hollywood-elbagir-lklv.cnn)." *CNN*. February 15, 2016.
 
 Good Morning America. "[Matt Damon, Shonda Rimes Weigh in on Oscars Diversity Controversy](https://www.youtube.com/watch?v=BZZ-mXq8lM8)." January 25, 2016. YouTube. 
 
 Massachusetts Conference for Women. "[Shonda Rhimes at the 2015 Massachusetts Conference for Women](https://www.youtube.com/watch?v=G_g-Js-Al4g)." December 18, 2015. YouTube.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Advertising and Consumerism
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ### Required
 
 Jhally, Sut. "[Advertising at the Edge of the Apocalypse](https://www.mediaed.org/transcripts/Advertising-at-the-Edge-of-the-Apocalypse-Transcript.pdf)."
 
-Steinem, Gloria. "[Sex, Lies, and Advertising](http://www1.udel.edu/comm245/readings/advertising.pdf)." _Ms. Magazine_, July / August 1990, 18–28.
+Steinem, Gloria. "[Sex, Lies, and Advertising](http://www1.udel.edu/comm245/readings/advertising.pdf)." *Ms. Magazine*, July / August 1990, 18–28.
 
-Kirkham, Pat, and Alex Weller. "Cosmetics: A Clinique Case Study." In _The Gendered Object_. Manchester University Press, 1996. ISBN: 9780719044755. \[Preview with [Google Books](http://books.google.com/books?id=ZHMbJQ50iZoC&pg=PA196=onepage)\]
+Kirkham, Pat, and Alex Weller. "Cosmetics: A Clinique Case Study." In *The Gendered Object*. Manchester University Press, 1996. ISBN: 9780719044755. \[Preview with [Google Books](http://books.google.com/books?id=ZHMbJQ50iZoC&pg=PA196=onepage)\]
 
-Wilson, Clint C., and Félix Gutiérrez. "Advertising and People of Color." In _Race, Multiculturalism, and the Media: From Mass to Class Communication_. SAGE Publications, Incorporation, 1995. ISBN: 9780803946293.
+Wilson, Clint C., and Félix Gutiérrez. "Advertising and People of Color." In *Race, Multiculturalism, and the Media: From Mass to Class Communication*. SAGE Publications, Incorporation, 1995. ISBN: 9780803946293.
 
 ### Recommended
 
-Schor, Juliet. "[The New Politics of Consumption](http://bostonreview.net/archives/BR24.3/schor.html)." _Boston Review_, 1999.
+Schor, Juliet. "[The New Politics of Consumption](http://bostonreview.net/archives/BR24.3/schor.html)." *Boston Review*, 1999.
 
-Stabile, Carol A. "[Nike, Social Responsibility, and the Hidden Abode of Production](http://dx.doi.org/10.1080/15295030009388389)." _Critical Studies in Media Communication_ 17, no. 2 (2000): 186–204.
+Stabile, Carol A. "[Nike, Social Responsibility, and the Hidden Abode of Production](http://dx.doi.org/10.1080/15295030009388389)." *Critical Studies in Media Communication* 17, no. 2 (2000): 186–204.
 
 ### Articles
 
-Bradley, Laura. "[The Academy Finally Announced Major Changes So the Oscars Won't Be #SoWhite](http://www.slate.com/blogs/browbeat/2016/01/22/the_academy_announces_major_changes_so_the_oscars_won_t_be_sowhite.html)." _Slate_, January 2016.
+Bradley, Laura. "[The Academy Finally Announced Major Changes So the Oscars Won't Be #SoWhite](http://www.slate.com/blogs/browbeat/2016/01/22/the_academy_announces_major_changes_so_the_oscars_won_t_be_sowhite.html)." *Slate*, January 2016.
 
-Wasow, Omar. [Where Chris Rock Went Wrong in His Oscars Monologue](http://www.theroot.com/articles/culture/2016/03/where_chris_rock_went_wrong_in_his_oscars_monologue/)."_The Root_, March 2016.
+Wasow, Omar. [Where Chris Rock Went Wrong in His Oscars Monologue](http://www.theroot.com/articles/culture/2016/03/where_chris_rock_went_wrong_in_his_oscars_monologue/)."*The Root*, March 2016.
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ### Videos
 
@@ -284,36 +217,25 @@ Cesario, Sergio. "[Levi's Gay Commercial](https://www.youtube.com/watch?v=bB90Vk
 
 shedwa. "[Levi's Commercial](https://www.youtube.com/watch?v=SG4RZY0s25E)." July 16, 2007. YouTube.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Postfeminism and the "Problem" of the Woman Political Candidate
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+Falk, Erika. *Women for President: Media Bias in Nine Campaigns*. University of Illinois Press, 2010. ISBN: 9780252076916. \[Preview with [Google Books](http://books.google.com/books?id=te4zjpzFtpMC&pg=PAfrontcover)\]
 
-Falk, Erika. _Women for President: Media Bias in Nine Campaigns_. University of Illinois Press, 2010. ISBN: 9780252076916. \[Preview with [Google Books](http://books.google.com/books?id=te4zjpzFtpMC&pg=PAfrontcover )\]
+Banet-Weiser, Sarah, and Laura Portwood-Stacer. "['I Just Want to Be Me Again!'](http://dx.doi.org/10.1177/1464700106064423)." *Feminist Theory* 7, no. 2 (2006): 255–72.
 
-Banet-Weiser, Sarah, and Laura Portwood-Stacer. "['I Just Want to Be Me Again!'](http://dx.doi.org/10.1177/1464700106064423)." _Feminist Theory_ 7, no. 2 (2006): 255–72.
+Gill, Rosalind. "[Postfeminist Media Culture: Elements of a Sensibility](http://dx.doi.org/10.1177/1367549407075898)." *European Journal of Cultural Studies* 10, no. 2 (2007): 147–66.
 
-Gill, Rosalind. "[Postfeminist Media Culture: Elements of a Sensibility](http://dx.doi.org/10.1177/1367549407075898)." _European Journal of Cultural Studies_ 10, no. 2 (2007): 147–66.
+Vedrashko, Ilya. "[How Spreadability Changes How We Think about Advertising](http://spreadablemedia.org/essays/vedrashko/#.V4lJc_krJqM)." *Spreadable Media*.
 
-Vedrashko, Ilya. "[How Spreadability Changes How We Think about Advertising](http://spreadablemedia.org/essays/vedrashko/#.V4lJc_krJqM)." _Spreadable Media_.
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ### Videos
 
-TheEllenShow. "[Bic Pens for Women](https://www.youtube.com/watch?v=eCyw3prIWhc)." October 12, 2012. _The Ellen Show_. YouTube.
+TheEllenShow. "[Bic Pens for Women](https://www.youtube.com/watch?v=eCyw3prIWhc)." October 12, 2012. *The Ellen Show*. YouTube.
 
 BodyformChannel. "[Bodyform Responds :: The Truth](https://www.youtube.com/watch?v=Bpy75q2DDow)." October 16, 2012. YouTube.
 
@@ -345,62 +267,45 @@ Entertainment News Gaming. "[Donald Trump Ad, First Commercial TV Ad Campaign](h
 
 [Ubykotex Website](https://www.ubykotex.com/en-us/)
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Elections and Participatory (Citizen) Media, Blogging, and "Spreadability"
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ### Required
 
-Rosen, Jay. "[The People Formerly Known as the Audience](http://archive.pressthink.org/2006/06/27/ppl_frmr.html)." _PressThink_. June 27, 2006.
+Rosen, Jay. "[The People Formerly Known as the Audience](http://archive.pressthink.org/2006/06/27/ppl_frmr.html)." *PressThink*. June 27, 2006.
 
-Anderson, C. W. "From Indymedia to Demand Media: Journalism's Visions of Its Audience and the Horizons of Democracy." In _The Social Media Reader_. Edited by Michael Mandiberg. New York University Press, 2012. ISBN: 9780814764060. \[Preview with [Google Books](http://books.google.com/books?id=Pg8UCgAAQBAJ&pg=PA77=onepage)\]
+Anderson, C. W. "From Indymedia to Demand Media: Journalism's Visions of Its Audience and the Horizons of Democracy." In *The Social Media Reader*. Edited by Michael Mandiberg. New York University Press, 2012. ISBN: 9780814764060. \[Preview with [Google Books](http://books.google.com/books?id=Pg8UCgAAQBAJ&pg=PA77=onepage)\]
 
-Jenkins, Henry, Sam Ford, and Joshua Green. "Introduction: Why Media Spreads." In _Spreadable Media: Creating Value and Meaning in a Networked Culture_. New York University Press, 2013. ISBN: 9780814743508. \[Preview with [Google Books](http://books.google.com/books?id=M_8TCgAAQBAJ&pg=PA1=onepage)\]
+Jenkins, Henry, Sam Ford, and Joshua Green. "Introduction: Why Media Spreads." In *Spreadable Media: Creating Value and Meaning in a Networked Culture*. New York University Press, 2013. ISBN: 9780814743508. \[Preview with [Google Books](http://books.google.com/books?id=M_8TCgAAQBAJ&pg=PA1=onepage)\]
 
 ### Recommended
 
-Gillmor, Dan. "The Gates Come Down." In _We the Media: Grassroots Journalism By the People for the People_. O'Reilly Media, 2006. ISBN: 9780596102272. \[Preview with [Google Books](http://books.google.com/books?id=Omuf-cUDyA0C&pg=PA44=onepage)\]
+Gillmor, Dan. "The Gates Come Down." In *We the Media: Grassroots Journalism By the People for the People*. O'Reilly Media, 2006. ISBN: 9780596102272. \[Preview with [Google Books](http://books.google.com/books?id=Omuf-cUDyA0C&pg=PA44=onepage)\]
 
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Remix: Fandom, Memes, and Social Media
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Lessig, Lawrence. "[Re-examining the Remix](http://www.ted.com/talks/lessig_nyed?language=en)." TED. April 2010.
 
-Davison, Patrick. "The Language of Internet Memes." In _The Social Media Reader_. Edited by Michael Mandiberg. New York University Press, 2012. ISBN: 9780814764060. \[Preview with [Google Books](http://books.google.com/books?id=Pg8UCgAAQBAJ&pg=PA120=onepage)\]
+Davison, Patrick. "The Language of Internet Memes." In *The Social Media Reader*. Edited by Michael Mandiberg. New York University Press, 2012. ISBN: 9780814764060. \[Preview with [Google Books](http://books.google.com/books?id=Pg8UCgAAQBAJ&pg=PA120=onepage)\]
 
-Wallsten, Kevin. "'[Yes We Can': How Online Viewership, Blog Discussion, Campaign Statements, and Mainstream Media Coverage Produced a Viral Video Phenomenon](http://dx.doi.org/10.1080/19331681003749030)." _Journal of Information Technology & Politics_ 7, no. 2–3 (2010): 163–81.
+Wallsten, Kevin. "'[Yes We Can': How Online Viewership, Blog Discussion, Campaign Statements, and Mainstream Media Coverage Produced a Viral Video Phenomenon](http://dx.doi.org/10.1080/19331681003749030)." *Journal of Information Technology & Politics* 7, no. 2–3 (2010): 163–81.
 
 ### Articles
 
-Liebelson, Dana. "[Obama Urges FCC to Set 'Strongest Possible Rules' To Protect Net Neutrality](http://www.huffingtonpost.com/2014/11/10/obama-net-neutrality_n_6132814.html)," _The Huffington Post_, November 10, 2014.
+Liebelson, Dana. "[Obama Urges FCC to Set 'Strongest Possible Rules' To Protect Net Neutrality](http://www.huffingtonpost.com/2014/11/10/obama-net-neutrality_n_6132814.html)," *The Huffington Post*, November 10, 2014.
 
-Abad-Santos, Alex. "[#Pointergate: What Happened After the Mayor of Minneapolis Posed with a Black Man](http://www.vox.com/2014/11/12/7187597/pointergate-minneapolis-mayor)."_Vox_, November 13, 2014.
+Abad-Santos, Alex. "[#Pointergate: What Happened After the Mayor of Minneapolis Posed with a Black Man](http://www.vox.com/2014/11/12/7187597/pointergate-minneapolis-mayor)."*Vox*, November 13, 2014.
 
-Taylor, Chris. "[Pointergate! How a Local TV Station Became a National Laughingstock](http://mashable.com/2014/11/07/pointergate/#TJMJ7cUToZqV)." _Mashable_, November 7, 2014.
+Taylor, Chris. "[Pointergate! How a Local TV Station Became a National Laughingstock](http://mashable.com/2014/11/07/pointergate/#TJMJ7cUToZqV)." *Mashable*, November 7, 2014.
 
 ### Other (Twitter)
 
@@ -408,10 +313,7 @@ Taylor, Chris. "[Pointergate! How a Local TV Station Became a National Laughings
 
 [Bill Clinton/Nelson Mandela-Pointergate](https://twitter.com/danielkauppi/status/530797021310238720/photo/1). November 7, 2014. Twitter.
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ### Videos
 
@@ -425,7 +327,7 @@ Thompson, Mark. "[Susan Boyle – I Dreamed a Dream](https://www.youtube.com/wat
 
 Auckland Law Revue. "[Robin Thicke-Blurred Lines Feminist Parody 'Defined Lines.'](https://www.youtube.com/watch?v=tC1XtnLRLPM)" August 30, 2013. YouTube.
 
-Browning, Bill. "The New Sexy 'All About That Bass' Parody Video." _The Bilerico Project_. November 12, 2014.
+Browning, Bill. "The New Sexy 'All About That Bass' Parody Video." *The Bilerico Project*. November 12, 2014.
 
 The Pop Culture Detective Agency. "[Buffy vs. Edward: Twilight Remixed](https://www.youtube.com/watch?v=RZwM3GvaTRM)." June 19, 2009. YouTube.
 
@@ -437,44 +339,31 @@ Slate Magazine. "[Hillary's Inner Tracy Flick](https://www.youtube.com/watch?v=r
 
 Comediva. "[Pinsanity](https://www.youtube.com/watch?v=Z7m9BdeP0cc&noredirect=1)." May 9, 2012. YouTube.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Race, Gender, Ethnicity in Music
 
 ### In-class Video
 
-Jhally, Sut. _Dreamworlds 3: Desire, Sex & Power in Music Video_. The Media Education Foundation, 2007. Watch a clip on [YouTube](https://www.youtube.com/watch?v=JDMo5cIJN3A).
+Jhally, Sut. *Dreamworlds 3: Desire, Sex & Power in Music Video*. The Media Education Foundation, 2007. Watch a clip on [YouTube](https://www.youtube.com/watch?v=JDMo5cIJN3A).
 
+{{< tdclose >}}{{< tdopen >}}
 
-{{< tdclose >}}
-{{< tdopen >}}
+Bayton, Mavis. "Women and the Electric Guitar." *In Sexing the Groove: Popular Music and Gender*. Routledge, 1997. ISBN: 9780415146715.
 
+Railton, Diane. "[The Gendered Carnival of Pop](http://dx.doi.org/10.1017/S0261143001001520)." *Popular Music* 20, no. 3 (2001): 321–31.
 
-Bayton, Mavis. "Women and the Electric Guitar." _In Sexing the Groove: Popular Music and Gender_. Routledge, 1997. ISBN: 9780415146715.
+Williams, N. "[Is Lady Gaga a Feminist or Isn't She?](http://msmagazine.com/blog/2010/03/11/is-lady-gaga-a-feminist-or-isnt-she/)" *Ms. Magazine*, March 2010.
 
-Railton, Diane. "[The Gendered Carnival of Pop](http://dx.doi.org/10.1017/S0261143001001520)." _Popular Music_ 20, no. 3 (2001): 321–31.
+Cochrane, Kira. "[Are You Sure Lady Gaga is the Feminist Icon You Think She Is?](http://www.queerty.com/are-you-sure-lady-gaga-is-the-feminist-icon-you-think-she-is-20100917/)" *Queerty.com*. September 17, 2010.
 
-Williams, N. "[Is Lady Gaga a Feminist or Isn't She?](http://msmagazine.com/blog/2010/03/11/is-lady-gaga-a-feminist-or-isnt-she/)" _Ms. Magazine_, March 2010.
+Halberstam, J. Jack. "Preface." In *Gaga Feminism: Sex, Gender, and the End of Normal*. Beacon Press, 2013, pp. 62–64. ISBN: 9780807010976.
 
-Cochrane, Kira. "[Are You Sure Lady Gaga is the Feminist Icon You Think She Is?](http://www.queerty.com/are-you-sure-lady-gaga-is-the-feminist-icon-you-think-she-is-20100917/)" _Queerty.com_. September 17, 2010.
+Guzmán, Isabel Molina, and Angharad N Valdivia. "[Brain, Brow, and Booty: Latina Iconicity in U.S. Popular Culture](http://dx.doi.org/10.1080/10714420490448723)." *The Communication* *Review* 7, no. 2 (2004): 205–21.
 
-Halberstam, J. Jack. "Preface." In _Gaga Feminism: Sex, Gender, and the End of Normal_. Beacon Press, 2013, pp. 62–64. ISBN: 9780807010976.
-
-Guzmán, Isabel Molina, and Angharad N Valdivia. "[Brain, Brow, and Booty: Latina Iconicity in U.S. Popular Culture](http://dx.doi.org/10.1080/10714420490448723)." _The Communication_ _Review_ 7, no. 2 (2004): 205–21.
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ### Videos
 
@@ -482,7 +371,7 @@ BritneySpearsVEVO. "[Britney Spears-Womanizer](https://www.youtube.com/watch?v=r
 
 Allen, Lily. "[Lily Allen-Smile](https://www.youtube.com/watch?v=0WxDrVUrSvI)." November 27, 2008. YouTube.
 
-Schlossberg, Mallory. "[The Beyoncelogues are Back with a Very, Very, Dramatic 'Single Ladies'—Video](http://www.bustle.com/articles/32327-the-beyoncelogues-are-back-with-a-very-very-dramatic-single-ladies-video?utm_source=FBTraffic&utm_medium=fijifrost&utm_campaign=CMfacebook)." _Bustle_. July 18, 2014.
+Schlossberg, Mallory. "[The Beyoncelogues are Back with a Very, Very, Dramatic 'Single Ladies'—Video](http://www.bustle.com/articles/32327-the-beyoncelogues-are-back-with-a-very-very-dramatic-single-ladies-video?utm_source=FBTraffic&utm_medium=fijifrost&utm_campaign=CMfacebook)." *Bustle*. July 18, 2014.
 
 beyoncéVEVO. "[Beyoncé-Single Ladies (Put a Ring On It)](http://www.youtube.com/watch?v=4m1EFMoRFvY)." October 2, 2009. YouTube.
 
@@ -508,128 +397,87 @@ BlackCatsRevenge. "[Everytime We Touch-Legolas/Aragorn](https://www.youtube.com/
 
 Chan, Mako. "[Legolas/Aragorn-Buttons](https://www.youtube.com/watch?v=U2ren_2m5X0&nohtml5=False)." March 30, 2008. YouTube.
 
-Towle, Andy. "'[Show Your ID to Pee' Video Goes Viral in Wake of Anti-LGBT NC Law](http://www.towleroad.com/2016/04/show-your-id-to-pee-video-goes-viral-watch/)." _Towleroad.com._ April 5, 2016.
+Towle, Andy. "'[Show Your ID to Pee' Video Goes Viral in Wake of Anti-LGBT NC Law](http://www.towleroad.com/2016/04/show-your-id-to-pee-video-goes-viral-watch/)." *Towleroad.com.* April 5, 2016.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Music / Performance: Divas, Icons, Gender, and Sexuality
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+Cohan, S. "Queer Eye for the Straight Guise." In *The Gender and Media Reader*. Edited by Mary Celeste Kearney. Routledge, 2011. ISBN: 9780415993463.
 
-Cohan, S. "Queer Eye for the Straight Guise." In _The Gender and Media Reader_. Edited by Mary Celeste Kearney. Routledge, 2011. ISBN: 9780415993463.
+Farmer, Brett. "The Fabulous Sublimity of Gay Diva Worship." *Camera Obscura* 20, no. 2 (2005): 165–95.
 
-Farmer, Brett. "The Fabulous Sublimity of Gay Diva Worship." _Camera Obscura_ 20, no. 2 (2005): 165–95.
+Ciasullo, Ann M. "[Making Her (In)Visible: Cultural Representations of Lesbianism and the Lesbian Body in the 1990s](http://www.jstor.org/stable/3178806)." *Feminist Studies* 27, no. 3 (2001): 577–608.
 
-Ciasullo, Ann M. "[Making Her (In)Visible: Cultural Representations of Lesbianism and the Lesbian Body in the 1990s](http://www.jstor.org/stable/3178806)." _Feminist Studies_ 27, no. 3 (2001): 577–608.
-
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 "[A Full Head of STEAMM featuring Mrs. Trixie Cane Live!](https://vimeo.com/153789737)" Vimeo.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Social Media, Feminism, and Youth Culture
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+boyd, danah. "Introduction." In *It's Complicated: The Social Lives of Networked Teens*. Yale University Press, 2015, pp. 1–3, 6, and 8. ISBN: 9780300199000.
 
-boyd, danah. "Introduction." In _It's Complicated: The Social Lives of Networked Teens_. Yale University Press, 2015, pp. 1–3, 6, and 8. ISBN: 9780300199000.
+Senft, Theresa M., and Nancy K. Baym. "[What Does the Selfie Say?: Investigating a Global Phenomenon](http://ijoc.org/index.php/ijoc/article/view/4067/1387)." *International Journal of Communication* 9 (2015): 1588–1606.
 
-Senft, Theresa M., and Nancy K. Baym. "[What Does the Selfie Say?: Investigating a Global Phenomenon](http://ijoc.org/index.php/ijoc/article/view/4067/1387)." _International Journal of Communication_ 9 (2015): 1588–1606.
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Sweet, Natalie Grace. "[How Selfies Have Changed the Face of Dating](http://ww2.kqed.org/pop/2013/10/11/how-selfies-have-changed-the-face-of-dating/)." KQED. October 11, 2013.
 
-[#SelfiePolice Website](http://selfiepolice.org/)
-
-Thomas, Emily. "['Selfies With Homeless People' Is the Latest In Shameful Trends](http://www.huffingtonpost.com/2014/02/10/selfies-with-homeless-people_n_4761647.html)," _Huffington Post_, February 10, 2014.
+Thomas, Emily. "['Selfies With Homeless People' Is the Latest In Shameful Trends](http://www.huffingtonpost.com/2014/02/10/selfies-with-homeless-people_n_4761647.html)," *Huffington Post*, February 10, 2014.
 
 [What Picture Would They Use? #iftheygunnedmedown](http://iftheygunnedmedown.tumblr.com/). Tumblr.
 
-Contrera, Jessica. "[The Story Behind the Viral #DontShoot Photo a Howard University](https://www.washingtonpost.com/news/arts-and-entertainment/wp/2014/08/14/the-story-behind-the-viral-dontshoot-photo-at-howard-university/)," _The Washington Post_, August 14, 2014.
+Contrera, Jessica. "[The Story Behind the Viral #DontShoot Photo a Howard University](https://www.washingtonpost.com/news/arts-and-entertainment/wp/2014/08/14/the-story-behind-the-viral-dontshoot-photo-at-howard-university/)," *The Washington Post*, August 14, 2014.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Hacktivism, Anonymity, and Feminist Online Resistance
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+Goffman, Erving. *The Presentation of Self in Everyday Life*. Anchor, 1959. ISBN: 9780385094023.
 
-Goffman, Erving. _The Presentation of Self in Everyday Life_. Anchor, 1959. ISBN: 9780385094023.
+Althusser, Louis. "Ideology and Ideological State Apparatuses." In *Lenin and Philosophy and Other Essays*. Monthly Review Press, 2001. ISBN: 9781583670392. 
 
-Althusser, Louis. "Ideology and Ideological State Apparatuses." In _Lenin and Philosophy and Other Essays_. Monthly Review Press, 2001. ISBN: 9781583670392. 
+Saltz, Jerry. "[Art at Arm's Length: A History of the Selfie](http://www.vulture.com/2014/01/history-of-the-selfie.html)." *Vulture*, January 26, 2014.
 
-Saltz, Jerry. "[Art at Arm's Length: A History of the Selfie](http://www.vulture.com/2014/01/history-of-the-selfie.html)." _Vulture_, January 26, 2014.
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 [I, too, am Oxford](http://itooamoxford.tumblr.com/). Tumblr.
 
 [Notes on Interpellation](http://www.longwood.edu/staff/mcgeecw/notesoninterpellation.htm)
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Selfies & Surveillance
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+Coleman, E. Gabriella. "Phreaks, Hackers, and Trolls." In *The Social Media Reader*. Edited by Michael Mandiberg. New York University Press, 2012. ISBN: 9780814764060. \[Preview with [Google Books](http://books.google.com/books?id=Pg8UCgAAQBAJ&pg=PA99=onepage)\]
 
-Coleman, E. Gabriella. "Phreaks, Hackers, and Trolls." In _The Social Media Reader_. Edited by Michael Mandiberg. New York University Press, 2012. ISBN: 9780814764060. \[Preview with [Google Books](http://books.google.com/books?id=Pg8UCgAAQBAJ&pg=PA99=onepage)\]
+Haralanova, Christina. "[Hacktivism: The Art of Practicing Life and Computer Hacking for Feminist Activism](http://dpi.studioxx.org/en/hacktivism-art-practicing-life-and-computer-hacking-feminist-activism)." *Feminist Journal of Art and Digital Culture* 27.
 
-Haralanova, Christina. "[Hacktivism: The Art of Practicing Life and Computer Hacking for Feminist Activism](http://dpi.studioxx.org/en/hacktivism-art-practicing-life-and-computer-hacking-feminist-activism)." _Feminist Journal of Art and Digital Culture_ 27.
+Toupin, Sophie. "[Feminist Hackerspaces as Safer Spaces](http://dpi.studioxx.org/en/feminist-hackerspaces-safer-spaces)." *Feminist Journal of Art and Digital Culture* 27.
 
-Toupin, Sophie. "[Feminist Hackerspaces as Safer Spaces](http://dpi.studioxx.org/en/feminist-hackerspaces-safer-spaces)." _Feminist Journal of Art and Digital Culture_ 27.
-
-Shaowen Bardzell, Lilly Nguyen, et al. "[Feminism and (Un)Hacking](http://peerproduction.net/issues/issue-8-feminism-and-unhacking/)." _Journal of Peer Production_, no. 8 (2016).
+Shaowen Bardzell, Lilly Nguyen, et al. "[Feminism and (Un)Hacking](http://peerproduction.net/issues/issue-8-feminism-and-unhacking/)." *Journal of Peer Production*, no. 8 (2016).
 
 ### Articles
 
-Marsh, Julia." [Actress in Viral Catcall Video Sues Man Who Made Her Famous](http://nypost.com/2015/07/14/actress-in-viral-catcall-video-sues-man-who-made-her-famous/ )," _New York Post_, July 14, 2015.
+Marsh, Julia." [Actress in Viral Catcall Video Sues Man Who Made Her Famous](http://nypost.com/2015/07/14/actress-in-viral-catcall-video-sues-man-who-made-her-famous/)," *New York Post*, July 14, 2015.
 
-Buhr, Sarah. "[Mattel Pulls Sexist Barbie Book 'I Can Be a Computer Engineer' Off Amazon](https://techcrunch.com/2014/11/19/mattel-pulls-sexist-barbie-book-i-can-be-a-computer-engineer-off-amazon/)." _Tech Crunch_. November 19, 2014.
+Buhr, Sarah. "[Mattel Pulls Sexist Barbie Book 'I Can Be a Computer Engineer' Off Amazon](https://techcrunch.com/2014/11/19/mattel-pulls-sexist-barbie-book-i-can-be-a-computer-engineer-off-amazon/)." *Tech Crunch*. November 19, 2014.
 
-Ribon, Pamela. "[Barbie F\*cks It Up Again](http://gizmodo.com/barbie-f-cks-it-up-again-1660326671)." _Gizmodo_. November 18, 2014.
+Ribon, Pamela. "[Barbie F\*cks It Up Again](http://gizmodo.com/barbie-f-cks-it-up-again-1660326671)." *Gizmodo*. November 18, 2014.
 
-Fiesler, Casey. "[Barbie Really Is a Computer Engineer: How I Remixed that Terrible Mattel Book](http://www.slate.com/articles/technology/future_tense/2014/11/barbie_is_a_computer_engineer_the_terrible_book_gets_remixed.html)." _Slate_, November 2014.
+Fiesler, Casey. "[Barbie Really Is a Computer Engineer: How I Remixed that Terrible Mattel Book](http://www.slate.com/articles/technology/future_tense/2014/11/barbie_is_a_computer_engineer_the_terrible_book_gets_remixed.html)." *Slate*, November 2014.
 
-Aran, Isha. "[CNN Guest: Women Wouldn't Care About Harassment if Catcallers Were Hot](http://jezebel.com/cnn-guest-women-wouldn-t-care-about-harassment-if-catc-1653826627)." _Jezebel_, November 2014.
+Aran, Isha. "[CNN Guest: Women Wouldn't Care About Harassment if Catcallers Were Hot](http://jezebel.com/cnn-guest-women-wouldn-t-care-about-harassment-if-catc-1653826627)." *Jezebel*, November 2014.
 
-Charlton, Lauretta. [Holla at Me: Talking to Men in Harlem About That Infamous Catcalling Video](http://www.complex.com/pop-culture/2014/10/is-catcalling-racist-harrassment/)." _Complex_, October 31, 2014.
+Charlton, Lauretta. [Holla at Me: Talking to Men in Harlem About That Infamous Catcalling Video](http://www.complex.com/pop-culture/2014/10/is-catcalling-racist-harrassment/)." *Complex*, October 31, 2014.
 
 ### Websites
 
@@ -645,10 +493,7 @@ Charlton, Lauretta. [Holla at Me: Talking to Men in Harlem About That Infamous 
 
 [Feminist Hacker Barbie](https://computer-engineer-barbie.herokuapp.com/)
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ### Videos
 
@@ -658,24 +503,12 @@ Rob Bliss Creative. "[10 Hours of Walking in NYC as a Woman](https://www.youtube
 
 Studio for Creative Inquiry. "[Jen Lowe: Deep Lab Lecture Series](https://vimeo.com/114393677)." December 8, 2014. Vimeo.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Final Project Presentations
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
