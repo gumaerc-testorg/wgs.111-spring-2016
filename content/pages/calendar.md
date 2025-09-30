@@ -24,7 +24,7 @@ Discussion of FemTechNet and Feminist Technology / Pedagogy, Media, New Media, a
 
 ### In-class Video
 
-Newsom, Jennifer Siebel and Kimberlee Acquaro. [*Miss Representation*](http://www.imdb.com/title/tt1784538/?ref_=fn_al_tt_1). Girls Club Entertainment, 2014. Watch on [YouTube](https://www.youtube.com/watch?v=W2UZZV3xU6Q).
+Newsom, Jennifer Siebel and Kimberlee Acquaro. {{% resource_link "e009dce1-cd15-48a8-a42f-cc68f897fef0" "*Miss Representation*" %}}. Girls Club Entertainment, 2014. Watch on {{% resource_link "b094da62-1105-45d0-aab9-f3ab957ad0cc" "YouTube" %}}.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -32,11 +32,11 @@ Newsom, Jennifer Siebel and Kimberlee Acquaro. [*Miss Representation*](http://ww
 2
 {{< tdclose >}}{{< tdopen >}}
 
-Gallery Visit to the [MIT List Visual Arts Center](https://listart.mit.edu/).
+Gallery Visit to the {{% resource_link "698b18d9-ef68-400d-b229-b98fbffcba58" "MIT List Visual Arts Center" %}}.
 
 **Special Event: List Reading Group: Role-Playing, focused on Ann Hirsch exhibit**
 
-How do media platforms simultaneously *construct and maintain* a range of characters and social roles? Join List Curatorial Fellow Monica Steinberg for a reading and discussion group exploring the tensions between the personal and the performed, nonfictional and fictionalized beings, and complex self-conceptions and static identities in [List Projects: Ann Hirsch](https://listart.mit.edu/exhibitions/list-projects-ann-hirsch)*.*
+How do media platforms simultaneously *construct and maintain* a range of characters and social roles? Join List Curatorial Fellow Monica Steinberg for a reading and discussion group exploring the tensions between the personal and the performed, nonfictional and fictionalized beings, and complex self-conceptions and static identities in {{% resource_link "76309a10-fbf4-48a2-b350-0685d91fcda4" "List Projects: Ann Hirsch" %}}*.*
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -54,7 +54,7 @@ Race, Class, and Gender in Media Content
 
 ### In-class Video
 
-Jhally, Sut. [*Killing Us Softly 4: Advertising's Image of Women*](http://www.imdb.com/title/tt2507550/?ref_=fn_al_tt_4). Watch an excerpt on [YouTube](https://www.youtube.com/watch?v=mxfmdfj_KhQ).
+Jhally, Sut. {{% resource_link "ab990f61-eef2-415a-8218-3556a53b0258" "*Killing Us Softly 4: Advertising's Image of Women*" %}}. Watch an excerpt on {{% resource_link "1be9c5a3-9da6-48bb-b052-22612ce668ac" "YouTube" %}}.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -78,7 +78,7 @@ Elections and Participatory (Citizen) Media, Blogging, and "Spreadability"
 
 ### In-class Video
 
-Olson, Chuck. [*Blogumentary*](https://www.youtube.com/watch?v=c0GFwhxBK-g). April 25, 2011. Youtube.
+Olson, Chuck. {{% resource_link "684518b4-c334-4759-bbf6-0596a454c9e8" "*Blogumentary*" %}}. April 25, 2011. Youtube.
 
 {{< tdclose >}}{{< tdopen >}}
 Response paper due
@@ -90,7 +90,7 @@ Elections and Participatory (Citizen) Media, Blogging, and "Spreadability"
 
 ### In-class Video
 
-Olson, Chuck. [*Blogumentary*](http://www.youtube.com/watch?v=c0GFwhxBK-g). April 25, 2011. Youtube.
+Olson, Chuck. {{% resource_link "ab8e77e7-a40f-424b-9264-6378be305694" "*Blogumentary*" %}}. April 25, 2011. Youtube.
 
 {{< tdclose >}}{{< tdopen >}}
 Respond to FemTechNet student keyword videos in Cara Wallis' course "Collaborations in Feminism and Technnology" at Texas A&M.
@@ -102,7 +102,7 @@ Remix: Fandom, Memes, and Social Media
 
 ### In-class Video
 
-Lessig, Lawrence. "[Laws That Choke Creativity](https://www.ted.com/talks/larry_lessig_says_the_law_is_strangling_creativity?language=en)." TED, 2007.
+Lessig, Lawrence. "{{% resource_link "79063ca5-64ba-4608-9c57-c6db7e2034cc" "Laws That Choke Creativity" %}}." TED, 2007.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -114,7 +114,7 @@ Race, Gender, Ethnicity in Music
 
 ### In-class Video
 
-Jhally, Sut. "[Dreamworlds 3: Desire, Sex & Power in Music Video](http://shop.mediaed.org/dreamworlds-3-p86.aspx)." 2007. *The Media Education Foundation*. Watch a clip on [YouTube](https://www.youtube.com/watch?v=JDMo5cIJN3A).
+Jhally, Sut. "{{% resource_link "26ab0b7f-3bf9-4f90-9063-769d55553e36" "Dreamworlds 3: Desire, Sex & Power in Music Video" %}}." 2007. *The Media Education Foundation*. Watch a clip on {{% resource_link "ae615318-dc14-4342-8571-b81c1584124a" "YouTube" %}}.
 
 {{< tdclose >}}{{< tdopen >}}
 Keyword videos due-online posting
