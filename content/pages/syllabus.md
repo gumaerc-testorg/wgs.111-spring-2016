@@ -24,7 +24,7 @@ In addition, we will examine how gender and race affects the *production* of med
 
 ## Distributed Open Collaborative Course
 
-This course was designed as a a DOCC, a Distributed Open Collaborative Course, in conjunction with others running simultaneously at other colleges and universities by members of [FemTechNet](https://en.wikipedia.org/wiki/FemTechNet), an international consortium of feminist scholars, cultural producers, and educators. Students engaged in "conversations" in dialogue with each other and also with participants in other courses, using digital technology to supplement real-time class interactions. Read [FemTechNet](https://femtechnet.academia.edu/FemTechNetDocuments) Documents.
+This course was designed as a a DOCC, a Distributed Open Collaborative Course, in conjunction with others running simultaneously at other colleges and universities by members of {{% resource_link "71963e12-e88e-4ffc-b14f-24390cc6d8e3" "FemTechNet" %}}, an international consortium of feminist scholars, cultural producers, and educators. Students engaged in "conversations" in dialogue with each other and also with participants in other courses, using digital technology to supplement real-time class interactions. Read {{% resource_link "0d35a896-36bb-4044-833b-7be28d6f4bae" "FemTechNet" %}} Documents.
 
 ## Course Objectives
 
@@ -41,7 +41,7 @@ Upon successful completion of this course, students will be able to do the follo
 
 boyd, danah. *It's Complicated: The Social Lives of Networked Teens*. Yale University Press, 2015. ISBN: 9780300199000.
 
-Jenkins, Henry, Sam Ford, and Joshua Green. *Spreadable Media: Creating Value and Meaning in a Networked Culture*. NYU Press, 2013. ISBN: 9780814743508. \[Preview with [Google Books](http://books.google.com/books?id=M_8TCgAAQBAJ&pg=PAfrontcover)\]
+Jenkins, Henry, Sam Ford, and Joshua Green. *Spreadable Media: Creating Value and Meaning in a Networked Culture*. NYU Press, 2013. ISBN: 9780814743508. \[Preview with {{% resource_link "d69bcaf5-a9ef-4c65-a75a-31442de214ee" "Google Books" %}}\]
 
 ## Course Requirements
 
