@@ -7,7 +7,7 @@ file_size: 11209
 file_type: image/jpeg
 image_metadata:
   caption: 'A woman takes a selfie overlooking Palm Springs, CA. (Image courtesy of
-    [Amber Case](https://www.flickr.com/photos/caseorganic/16608336543/) on Flickr.
+    {{% resource_link "dc9046a2-5f00-4a90-8039-6c7df616b16c" "Amber Case" %}} on Flickr.
     License: CC BY-NC)'
   credit: 'Image courtesy of Amber Case on Flickr. License: CC BY-NC.'
   image-alt: A photograph of a woman holding a cell phone in front of her taking a
